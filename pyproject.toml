@@ -6,6 +6,7 @@ authors = ["authorname <email@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "~3.10"
+jupyter = "^1.1.1"
 
 [tool.poetry.group.dev.dependencies]
 pyspark = "^3.5.0"
